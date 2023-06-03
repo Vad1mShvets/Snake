@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c7084f9942eb44f2bd5efca6342b5c3, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  DistanceBetweenTails: 0.35
+  TailSpeed: 5
+  TailPrefab: {fileID: 4697344054095634461, guid: ed156bf3395724326b2a38c929d3eb84,
+    type: 3}
+  ApplePrefab: {fileID: 4697344054095634461, guid: de36e978793b04d58b4c40587af7915c,
+    type: 3}
